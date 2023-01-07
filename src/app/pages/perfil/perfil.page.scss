@@ -1,0 +1,13 @@
+.fondo {
+  --background: rgba(132, 163, 183, 1);
+  background: rgba(132, 163, 183, 1);
+}
+
+.foto{
+  border-radius: 5px;
+  overflow: hidden;
+  height: 150px;
+  width: 150px;
+  align-items: center;
+  // https://ianrmedia.unl.edu/resources/rounded-corners-images
+}
